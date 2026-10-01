@@ -1,2 +1,2 @@
-google.com, pub-OLD_PUBLISHER_ID, DIRECT, f08c47fec0942fa0
+google.com, pub-7114544194414950, DIRECT, f08c47fec0942fa0
 google.com, pub-7114544194414950, DIRECT, f08c47fec0942fa0

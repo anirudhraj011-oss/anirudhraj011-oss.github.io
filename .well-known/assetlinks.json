@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.apnabhojpuri.apna_bhojpuri",
+      "sha256_cert_fingerprints": [
+        "F3:B8:E2:9B:89:DA:D3:D1:C6:FC:7C:26:02:ED:57:39:A3:E8:A6:32:E5:96:85:06:00:68:6A:3C:67:A8:EE:83"
+      ]
+    }
+  }
+]
